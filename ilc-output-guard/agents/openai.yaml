@@ -1,0 +1,4 @@
+interface:
+  display_name: "ILC Output Guard"
+  short_description: "Build feedforward, fail-closed output checks from bucketized recurring feedback."
+  default_prompt: "Use $ilc-output-guard to bucketize recurring output feedback, run preflight before drafting, check drafts before sending, and update or dedupe ILC state without storing private state in the public package."
